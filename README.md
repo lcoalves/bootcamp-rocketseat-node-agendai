@@ -1,1 +1,1 @@
-# bootcamp-rocketseat-node-agendai
+# bootcamp-rocketseat-node-agendai-modulo-2
